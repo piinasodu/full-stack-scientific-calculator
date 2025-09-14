@@ -24,7 +24,7 @@ pip (the Python package installer)
 Installation & Setup
 Clone the Repository:
 
-git clone [https://github.com/your-username/advanced-calculator.git](https://github.com/your-username/advanced-calculator.git)
+git clone [https://github.com/piinasodu/full-stack-scientific-calculator.git](https://github.com/piinasodu/full-stack-scientific-calculator.git)
 cd advanced-calculator
 
 Create a Virtual Environment (Recommended):
@@ -51,3 +51,4 @@ The backend will start and be accessible at http://127.0.0.1:5000.
 
 Open the Frontend:
 Open the index.html file located in the static folder in your web browser. The calculator will now be fully functional and ready for use.
+
